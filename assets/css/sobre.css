@@ -1,0 +1,18 @@
+
+
+body {
+    text-align: center;
+}
+
+#logoCima{
+    background-image: url("../images/tecsidel-icon.png");
+    background-repeat: no-repeat;
+    background-size: 25px 25px;
+    background-position: center;
+    width: 100%;
+    height: 25px;
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 5px;
+    border-bottom: 1px solid #ccc;
+}

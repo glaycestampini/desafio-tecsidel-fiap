@@ -1,0 +1,22 @@
+/* Adicione estilos personalizados aqui */
+body {
+    padding-top: 56px;
+    font-family: 'Poppins', sans-serif;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+body {
+    display: flex;
+    flex-direction: column;
+}
+.content {
+    flex: 1 0 auto;
+}
+.footer {
+    flex-shrink: 0;
+    border-top: 1px solid rgb(198, 198, 198);
+    margin-top: auto;
+}
